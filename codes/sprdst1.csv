@@ -1,0 +1,27 @@
+,display,Test image,left,right,work,worked,shirked,randomise_trials,Likert
+0,intro,,,,,,,0,
+1,attention,,,,,,,1,
+2,attention,,,,,,,1,
+3,attention,,,,,,,1,
+4,attention,,,,,,,1,
+5,attention,,,,,,,1,
+6,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+7,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+8,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+9,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+10,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+11,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+12,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+13,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+14,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+15,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+16,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+17,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+18,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+19,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+20,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+21,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+22,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+23,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+24,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+25,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"

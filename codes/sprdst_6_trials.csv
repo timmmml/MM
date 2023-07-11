@@ -1,0 +1,9 @@
+,display,Test image,left,right,work,worked,shirked,randomise_trials,Likert
+0,intro,,,,,,,0,
+1,attention,,,,,,,1,
+2,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+3,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+4,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+5,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+6,trials,s0.PNG,0,1,1,w0.PNG,sh0.PNG,1,"1, 2, 3, 4, 5, 6, 7"
+7,trials,s1.PNG,1,0,1,w1.PNG,sh1.PNG,1,"1, 2, 3, 4, 5, 6, 7"

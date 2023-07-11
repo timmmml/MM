@@ -1,0 +1,87 @@
+,display,Test image A,Test image B,left,right,work,shirk,noninspect,worked,inspected,shirked,noninspected,randomise_trials,Likert,trace
+0,intro,,,,,,,,,,,,0,,1
+1,attention,,,,,,,,,,,,1,,1
+2,attention,,,,,,,,,,,,1,,1
+3,attention,,,,,,,,,,,,1,,1
+4,attention,,,,,,,,,,,,1,,1
+5,attention,,,,,,,,,,,,1,,1
+6,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+7,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+8,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+9,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+10,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+11,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+12,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+13,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+14,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+15,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+16,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+17,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+18,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+19,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+20,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+21,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+22,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+23,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+24,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+25,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+26,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+27,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+28,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+29,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+30,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+31,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+32,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+33,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+34,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+35,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+36,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+37,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+38,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+39,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+40,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+41,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+42,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+43,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+44,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+45,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+46,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+47,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+48,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+49,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+50,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+51,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+52,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+53,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+54,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+55,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+56,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+57,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+58,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+59,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+60,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+61,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+62,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+63,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+64,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+65,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+66,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+67,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+68,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+69,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+70,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+71,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+72,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+73,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+74,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+75,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+76,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+77,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+78,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+79,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+80,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+81,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+82,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+83,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+84,trials,s0.PNG,i0.PNG,0,1,1,0,0,w0.PNG,in0.PNG,sh0.PNG,n0.PNG,1,"1, 2, 3, 4, 5, 6, 7",1
+85,trials,s1.PNG,i1.PNG,1,0,1,0,0,w1.PNG,in1.PNG,sh1.PNG,n1.PNG,1,"1, 2, 3, 4, 5, 6, 7",0
